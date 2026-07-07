@@ -6,14 +6,14 @@ from telethon.errors import FloodWaitError, SessionPasswordNeededError
 from telethon.tl.types import Channel
 
 # --- CONFIGURATION ---
-API_ID = 34285157
-API_HASH = '63b0f47a283ebdcdfe938139fba813a1'
+API_ID = 12345678
+API_HASH = 'xxxxxxxxxxxxxxxxxxxxx'
 
 CHANNELS_LIST = [
-    -1003772713417, -1003806134864, -1003734314694, -1003890272169,
-    -1003869074211, -1003783056533, -1003733328966, -1003858263037,
-    -1003543784111, -1003734483679, -1003831950645, -1003732502507,
-    -1003294387561, -1003762046999, -1003690139682, -1003852439324
+    -100xxxxxxxxxx, -100xxxxxxxxxx, -100xxxxxxxxxx, -100xxxxxxxxxx,
+    -100xxxxxxxxxx, -100xxxxxxxxxx, -100xxxxxxxxxx, -100xxxxxxxxxx,
+    -100xxxxxxxxxx, -100xxxxxxxxxx, -100xxxxxxxxxx, -100xxxxxxxxxx,
+    -100xxxxxxxxxx, -100xxxxxxxxxx, -100xxxxxxxxxx, -100xxxxxxxxxx
 ]
 # ----------------------------------------
 
